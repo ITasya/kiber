@@ -1,0 +1,187 @@
+[class*=_icon-]::before {
+  font-family: "icon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class*=_icon-]::before {
+  display: block;
+}
+
+._icon-air:before {
+  content: "\e908";
+  color: #FF007A;
+}
+
+._icon-basket:before {
+  content: "\e90f";
+}
+
+._icon-basket_96252:before {
+  content: "\e910";
+}
+
+._icon-basket2:before {
+  content: "\e911";
+}
+
+._icon-book:before {
+  content: "\e912";
+}
+
+._icon-bubble:before {
+  content: "\e913";
+}
+
+._icon-burger:before {
+  content: "\e914";
+}
+
+._icon-camera:before {
+  content: "\e915";
+  color: #CCFF00;
+}
+
+._icon-carsh:before {
+  content: "\e916";
+  color: #FFC700;
+}
+
+._icon-chat:before {
+  content: "\e917";
+}
+
+._icon-chat-2_96289:before {
+  content: "\e919";
+}
+
+._icon-comp:before {
+  content: "\e91a";
+  color: #FFC700;
+}
+
+._icon-discount:before {
+  content: "\e91c";
+}
+
+._icon-game:before {
+  content: "\e91d";
+}
+
+._icon-game1:before {
+  content: "\e91e";
+  color: #FF007A;
+}
+
+._icon-icon:before {
+  content: "\e91f";
+}
+
+._icon-laptop:before {
+  content: "\e920";
+  color: #FFC700;
+}
+
+._icon-laptopq:before {
+  content: "\e921";
+}
+
+._icon-local:before {
+  content: "\e922";
+}
+
+._icon-location:before {
+  content: "\e923";
+}
+
+._icon-mess:before {
+  content: "\e924";
+}
+
+._icon-mobile:before {
+  content: "\e925";
+  color: #CCFF00;
+}
+
+._icon-news:before {
+  content: "\e926";
+}
+
+._icon-news1:before {
+  content: "\e927";
+}
+
+._icon-print:before {
+  content: "\e928";
+}
+
+._icon-sale:before {
+  content: "\e929";
+}
+
+._icon-search:before {
+  content: "\e92a";
+}
+
+._icon-Star-5:before {
+  content: "\e92b";
+}
+
+._icon-star:before {
+  content: "\e92c";
+}
+
+._icon-taopot:before {
+  content: "\e92d";
+  color: #FF007A;
+}
+
+._icon-tv:before {
+  content: "\e92e";
+  color: #CCFF00;
+}
+
+._icon-arrow-button:before {
+  content: "\e900";
+}
+
+._icon-compare:before {
+  content: "\e903";
+}
+
+._icon-favorite:before {
+  content: "\e904";
+}
+
+._icon-footerLocation:before {
+  content: "\e906";
+}
+
+._icon-location1:before {
+  content: "\e907";
+}
+
+._icon-search1:before {
+  content: "\e90a";
+}
+
+._icon-spoller-arrow:before {
+  content: "\e90b";
+}
+
+._icon-Star-51:before {
+  content: "\e90c";
+}
+
+._icon-tel:before {
+  content: "\e90d";
+}
+
+._icon-user:before {
+  content: "\e90e";
+}
